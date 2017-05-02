@@ -51,14 +51,29 @@ In these two simulations, the party is level 2 and the encounters are 2 (easy), 
 
 These are the results of fighting without Bless and fighting with Bless.
 
-Without bless: 3 {:hp 56.11}, 4 {:hp 40.121334}, 5 {:hp 21.817333}
-With bless: 3 {:hp 58.788}, 4 {:hp 44.671333}
+Without bless: 2 {:hp 55.09667} 3 {:hp 35.487335} 4 {:hp 14.121333}
+With bless: 2 {:hp 58.326} 3 {:hp 41.906666} 4 {:hp 20.404667}
 
-The average of the total HP when the Cleric casts bless is 59 versus 3 Lizardfolk, 45 versus 4 Lizardfolk, and . The average of the total HP when the Cleric does not cast bless is 56 versus 3 Lizardfolk, 40 versus 4 Lizardfolk, and 22 versus 5 Lizardfolk.
+The average of the total HP when the Cleric casts bless is 58.32 versus 2 Lizardfolk, 41.90 versus 3 Lizardfolk, and 20.40 versus 4 Lizardfolk. The average of the total HP when the Cleric does not cast bless is 55.10 versus 2 Lizardfolk, 35.49 versus 3 Lizardfolk, and 14.12 versus 4 Lizardfolk.
 
-We feel justified in saying that in these combat examples, bless prevents x, y, z damage. Does this not prove our argument to be incorrect? No, because the party lost the spell slot they could have used to cast Cure Wounds.
+We feel justified in saying that in these combat examples that bless prevented 3.22 during the average encounter with 2 Lizardfolk , 6.41 during the average encounter with 3 Lizardfolk, and 6.28 damage during the average encounter with 4 Lizardfolk. In this encounter, the Cleric has cast Bless without using an action and maintains concentration regardless of the damage the Cleric takes while the Lizardfolk attack party members randomly. In this case, the best possible case for bless, Bless comes out slightly behind Cure Wounds. 
 
 <b>Why Cure Wounds is the best Cleric spell</b>
 
 The average result of 1d8 is 4.5. When a Cleric casts Cure Wounds, the Cleric adds their Wisdom modifier to the result of a d8. The expected value of casting Cure Wounds is 4.5 + WIS. If your level 1 Cleric has 16 Wisdom, you probably expect to heal 7 or 8 HP when you cast Cure Wounds. How much damage did Bless prevent?
 
+<b>Using spell slots during a simulated adventuring day</b>
+
+Using spells like haste and burning hands conditionally.
+
+<b>Which spells are good?</b>
+
+Burning Hands, Fireball, Prayer of Healing etc.
+
+<b>Which class features are the best?</b>
+
+Which class features preserve the most resources over a simulated adventuring day? Remarks on defensive vs dueling style. Using rages. Action surge and Second wind.
+
+<b>The number 1 class?</b>
+
+Which class's presence preserves the most resources over a simulated adventuring day?
